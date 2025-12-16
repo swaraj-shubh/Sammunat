@@ -97,7 +97,7 @@ const WhyChooseUs = () => {
   };
 
   return (
-    <section className="relative py-20 md:py-28 bg-gradient-to-b from-orange-50 via-white to-orange-50/30 overflow-hidden">
+    <section className="relative py-20 md:py-28  overflow-hidden">
       {/* Background Elements */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-r from-orange-200/20 to-orange-100/10 rounded-full blur-3xl" />
