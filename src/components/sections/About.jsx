@@ -107,9 +107,9 @@ const About = () => {
       id="about" 
       className="py-16 md:py-32 relative overflow-hidden"
       ref={ref}
-      style={{
-        background: 'linear-gradient(135deg, #fff7ed 0%, #fffbeb 50%, #fef3c7 100%)'
-      }}
+      // style={{
+      //   background: 'linear-gradient(135deg, #fff7ed 0%, #fffbeb 50%, #fef3c7 100%)'
+      // }}
     >
       {/* Animated Background Elements */}
       <motion.div 

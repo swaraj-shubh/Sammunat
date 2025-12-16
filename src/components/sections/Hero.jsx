@@ -56,7 +56,7 @@ const Hero = () => {
       ref={ref}
     >
       {/* Background Elements */}
-      <div className="absolute inset-0 bg-gradient-to-br from-orange-50 via-white to-amber-50/30"></div>
+      {/* <div className="absolute inset-0 bg-gradient-to-br from-orange-50 via-white to-amber-50/30"></div> */}
       
       {/* Animated Background Orbs */}
       <motion.div 
